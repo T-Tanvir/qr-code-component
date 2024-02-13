@@ -1,27 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap") @tailwind base;
 
-.m-auto{
-  margin: auto
-}
-
-.m-4{
-  margin: 1rem
-}
-
-.mb-4{
-  margin-bottom: 1rem
-}
-
-.mt-4{
-  margin-top: 1rem
+.m-0{
+  margin: 0px
 }
 
 .mb-6{
   margin-bottom: 1.5rem
-}
-
-.mt-6{
-  margin-top: 1.5rem
 }
 
 .mt-8{
@@ -103,11 +87,6 @@
 .text-lg{
   font-size: 1.125rem;
   line-height: 1.75rem
-}
-
-.text-3xl{
-  font-size: 1.875rem;
-  line-height: 2.25rem
 }
 
 .font-bold{
