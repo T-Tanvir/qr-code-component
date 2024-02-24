@@ -5,5 +5,3 @@ The challenge was to build out a QR code component and get it looking as close t
 ## Deploying The project
 There are many ways to host the project for free
 - GitHub Pages
-- Vercel (Deployed)
-- Netlify
